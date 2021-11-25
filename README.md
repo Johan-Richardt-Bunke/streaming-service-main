@@ -1,0 +1,3 @@
+# Streaming Service
+This is an introduction to the Semester 1 Project in GRPRO
+...
